@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaireShop</string>
+    <string name="empty_list">No products were found</string>
+</resources>

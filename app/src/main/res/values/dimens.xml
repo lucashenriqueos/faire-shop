@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_small">8dp</dimen>
+    <dimen name="dimen_medium">16dp</dimen>
+    <dimen name="dimen_large">24dp</dimen>
+    <dimen name="dimen_xlarge">36dp</dimen>
+    <dimen name="dimen_xxlarge">48dp</dimen>
+
+    <dimen name="item_product_image">72dp</dimen>
+</resources>
